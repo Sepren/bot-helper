@@ -1,4 +1,3 @@
-require: slotfilling/slotFilling.sc
 require: patterns.sc
 theme: /
 
